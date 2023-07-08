@@ -1,0 +1,23 @@
+{
+    "token": "OBTEN TU TOKEN EN https://discord.dev",
+    "prefix": ";",
+    "ownerIDS": ["282942681980862474"],
+    "status": [
+        {
+            "text": "discord.gg/niby",
+            "type": "WATCHING"
+        },
+        {
+            "text": "{suggestcount} Sugerencias",
+            "type": "WATCHING"
+        }
+    ],
+    "discord": "https://discord.gg/MBPsvcphGf",
+    "antifakeservers": {
+        "enabled": false,
+        "blacklistedOwnerIds": [],
+        "minServerMembers": 0,
+        "minCreationTime": 604800000,
+        "logChannel": "994185525923680336"
+     }
+}

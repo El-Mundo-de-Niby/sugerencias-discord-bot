@@ -1,0 +1,8 @@
+package-lock.json
+node_modules
+botconfig/config.json
+
+# DATABASE FILES
+enmap.sqlite
+enmap.sqlite-shm
+enmap.sqlite-wal
